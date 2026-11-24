@@ -37,7 +37,7 @@ dev = [
     "platformio==6.2.0",
     # Wordclock's own: tools/web-smoke.py. The version decides the Chromium it downloads, which
     # the web job caches.
-    "playwright==1.64.1",
+    "playwright==1.65.2",
 ]
 
 [tool.uv]
